@@ -1,0 +1,12 @@
+.siteHeader {
+  color: #ff5200;
+
+  padding-bottom: 60px;
+  background-color: #f3f2f0;
+}
+.siteHeader h1 {
+  font-size: 1.5em;
+  font-family: "Quicksand", sans-serif;
+  margin-left: 110px;
+  padding: 20px;
+}

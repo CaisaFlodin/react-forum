@@ -1,0 +1,22 @@
+.img {
+  width: 100%;
+  border-radius: 30px;
+}
+.card {
+  display: block;
+  width: 15em;
+  padding: 0.5em;
+  margin-right: 20px;
+  margin-bottom: 1em;
+  list-style: none;
+  font-size: 1.5em;
+  text-align: center;
+}
+.card a {
+  font-size: 0.8em;
+  color: black;
+  font-family: Euclid, Helvetica, Arial, sans-serif;
+}
+.card a:hover {
+  color: #ff5200;
+}
